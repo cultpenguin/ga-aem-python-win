@@ -21,7 +21,7 @@ python -m build
 python -m twine upload --repository testpypi dist/*
 
 echo "If the TestPyPI upload was successful, you can install and test with:"
-echo "pip install --index-url https://test.pypi.org/simple/ ga-aem-forward-win
+echo "pip install --index-url https://test.pypi.org/simple/ ga-aem-forward-win"
 
 echo "When ready for the real release, run:"
 echo "python -m twine upload dist/*"
