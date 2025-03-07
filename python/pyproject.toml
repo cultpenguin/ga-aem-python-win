@@ -5,8 +5,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ga-aem-forward-win"
-version = "2.0.3"
-description = "Time-domain airborne electromagnetic forward modelling for Windows"
+version = "3.0.2.alpha"
+description = "Time-domain airborne electromagnetic forward modelling for Windows. Corresponds to v2.0.3 of the GA-AEM code"
 readme = { file = "README.md", content-type = "text/markdown" }
 requires-python = ">=3.10"
 authors = [{ name = "Ross C Brodie", email = "ross.c.brodie@ga.gov.au" }]
